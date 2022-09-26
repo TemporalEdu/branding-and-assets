@@ -1,5 +1,5 @@
 # branding-and-assets
-svgs and pngs of all our logos. subject to change at any time.
+svgs and pngs of all our logos. also will include the roadmap and whitepaper subject to change at any time. 
 
 ## Color scheme
 
